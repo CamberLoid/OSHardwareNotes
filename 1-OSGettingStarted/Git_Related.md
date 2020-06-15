@@ -42,8 +42,8 @@ Github 在处理用户鉴权时, 使用SSH公钥或HTTPS认证.
 
 ### 前期配置
 
-在Commit前需要设置邮箱和名字: 
-`git config --global user.name "你名字, 可以是中文"`
+在Commit前需要设置邮箱和名字:  
+`git config --global user.name "你名字, 可以是中文"`  
 `git config --global user.email "你邮箱"`
 
 Git的默认文本编辑器是`vi`/`vim`. 如果vim使不来的话, 可以更换默认文本编辑器
